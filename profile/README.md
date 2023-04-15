@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/trends-dev.png" height="200">
+</p>
+
 <h1 align="center">
 编程潮流
 </h1>
