@@ -10,11 +10,13 @@
 保持开源，开放的理念，让开发者能够更好地掌握编程技能。
 <p>
 <div align="center">
-  <a href="https://code-trends-dev.vercel.app">官网</a> —
-  <a href="https://github.com/orgs/trends-dev/discussions/new?category=%E5%BC%80%E6%BA%90%E5%A5%BD%E7%89%A9">投稿</a>
+  <a href="https://code-trends-dev.vercel.app">官网</a> - 
+  <a href="https://github.com/orgs/trends-dev/discussions/new?category=%E5%BC%80%E6%BA%90%E5%A5%BD%E7%89%A9">投稿</a> - 
+  <a href="https://afdian.net/a/sponsors_trends">赞助</a>
 </div>
 <div align="center">
-  <a href="https://code-trends-dev.vercel.app/open-source/">开源好物</a>
+  <a href="https://code-trends-dev.vercel.app/open-source/">开源好物</a> ·
+  <a href="https://code-trends-dev.vercel.app/vue/">Vue专栏</a>
 </div>
 
 <!--
